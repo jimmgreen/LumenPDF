@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "product": "LumenPDF",
+  "version": "0.4.0",
+  "tag": "v0.4.0",
+  "published": "2026-09-29",
+  "page": "https://github.com/jimmgreen/LumenPDF/releases/tag/v0.4.0",
+  "notes": "LumenPDF 首个开源版本（AGPL-3.0）。\n\n新增\n- 在线升级：启动后自动检查（每天最多一次，可在设置中关闭），也可在“更多 → 检查更新”手动检查。\n- 国内网络可用：版本信息同时从 GitHub、jsDelivr 和加速镜像获取；下载前测速选择最快线路，断线自动换线续传。\n- 安全：版本信息带 ECDSA 签名，安装包下载后校验 SHA-256；下载完成后需确认才安装，未保存的文档会先逐份询问。\n- “更多 → 关于 LumenPDF”：版本、许可与源代码链接。\n\n修复\n- 主页底部隐私说明文字超出卡片背景。\n\n其它\n- 源代码公开在 GitHub；LUMEN 界面库改为 git submodule。",
+  "assets": {
+    "setup": {
+      "name": "LumenPDF-0.4.0-setup.exe",
+      "size": 22663643,
+      "sha256": "316374bd4b1de9095b5b5bf210a9482fed5350d2b4657410573844a38e2b8bc8",
+      "urls": [
+        "https://github.com/jimmgreen/LumenPDF/releases/download/v0.4.0/LumenPDF-0.4.0-setup.exe"
+      ]
+    },
+    "portable": {
+      "name": "LumenPDF-0.4.0-portable-x64.zip",
+      "size": 27912014,
+      "sha256": "70d708b1f4b78017b3b9161fbc4b71ae22b8adfdea622ccd0fe90c03bdb3dcae",
+      "urls": [
+        "https://github.com/jimmgreen/LumenPDF/releases/download/v0.4.0/LumenPDF-0.4.0-portable-x64.zip"
+      ]
+    }
+  },
+  "mirrors": [
+    "https://gh-proxy.com/",
+    "https://ghfast.top/",
+    "https://ghproxy.cxkpro.top/",
+    "https://gh.zwy.one/",
+    "https://ghproxy.net/"
+  ]
+}
