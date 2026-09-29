@@ -4,6 +4,29 @@
 
 C++20 · [MuPDF 1.28.4](https://mupdf.com) · [LUMEN](https://github.com/jimmgreen/LUMENUI) 界面库 · Windows 10 1809+ / 11 x64 · AGPL-3.0
 
+<p align="center">
+  <a href="https://github.com/jimmgreen/LumenPDF/releases/latest"><img src="https://img.shields.io/github/v/release/jimmgreen/LumenPDF?label=%E4%B8%8B%E8%BD%BD&color=2f6fe4" alt="下载最新版"></a>
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4" alt="Windows 10 | 11">
+  <img src="https://img.shields.io/github/license/jimmgreen/LumenPDF?color=555" alt="AGPL-3.0">
+</p>
+
+<p align="center"><img src="docs/images/reader.png" alt="LumenPDF 阅读界面：缩略图侧栏 + 双页阅读" width="100%"></p>
+
+## 界面一览
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="docs/images/home.png" alt="主页"><br><b>主页</b> · 最近打开的文件带页面缩略图，按今天 / 昨天 / 更早分组，可固定常用文件</td>
+    <td width="50%" valign="top"><img src="docs/images/annotate.png" alt="批注"><br><b>批注</b> · 高亮、下划线、便签、形状、手绘、签名；侧栏按页列出全部批注，选中即可改颜色与透明度</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="docs/images/split.png" alt="分屏对照"><br><b>多标签 + 分屏对照</b> · 多个文档在同一窗口的标签页中打开，左右或上下分屏对照阅读，一键交换编辑侧</td>
+    <td width="50%" valign="top"><img src="docs/images/merge.png" alt="合并"><br><b>混合格式合并</b> · PDF、Word、Excel、PPT、TXT、图片一起合并，可设页码范围、按文件名生成目录</td>
+  </tr>
+</table>
+
+<sub>截图中的文档均为演示用的虚构内容。</sub>
+
 ## 下载
 
 从 [GitHub Releases](https://github.com/jimmgreen/LumenPDF/releases/latest) 下载最新版本：
@@ -38,6 +61,8 @@ https://ghfast.top/https://github.com/jimmgreen/LumenPDF/releases/download/v0.4.
 - **安全保存**：先写临时文件并验证能重新打开，再替换原文件；编辑中每 60 秒自动备份，异常退出后可恢复。
 
 Word / Excel / PowerPoint 转换使用本机已安装的 Microsoft Office（或 LibreOffice）；没有安装时其它功能不受影响。
+
+<p align="center"><img src="docs/images/pages.png" alt="页面网格：合并预览后的 10 页，含 Word、Excel 与图片转换结果" width="100%"><br><sub>合并预览在页面网格中打开：发布会方案、Excel 预算表、Word 名单、图片与合同合成 10 页，可继续拖动重排、旋转或删除后保存。</sub></p>
 
 ## 在线升级与隐私
 
