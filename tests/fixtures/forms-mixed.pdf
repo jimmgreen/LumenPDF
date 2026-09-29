@@ -1,0 +1,126 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/AcroForm 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 400 600 ]
+/Parent 2 0 R
+/Contents 6 0 R
+/Annots [ 8 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+/Length 51
+>>
+stream
+BT /F1 16 Tf 40 540 Td (Original vector text) Tj ET
+endstream
+endobj
+7 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [ 0 0 220 35 ]
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+/Length 68
+>>
+stream
+0.9 g 0 0 220 35 re f 0 g BT /F1 12 Tf 8 12 Td (FORM VALUE 42) Tj ET
+endstream
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Widget
+/FT /Tx
+/T (answer)
+/V (FORM VALUE 42)
+/Rect [ 40 440 260 475 ]
+/F 4
+/AP <<
+/N 7 0 R
+>>
+/DA (\057F1 12 Tf 0 g)
+>>
+endobj
+9 0 obj
+<<
+/Fields [ 8 0 R ]
+/NeedAppearances false
+/DR <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+/DA (\057F1 12 Tf 0 g)
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0.0 0.0 700 400 ]
+/Parent 2 0 R
+/Rotate 90
+/CropBox [ 30 20 660 380 ]
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000185 00000 n 
+0000000335 00000 n 
+0000000405 00000 n 
+0000000506 00000 n 
+0000000714 00000 n 
+0000000876 00000 n 
+0000000993 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1126
+%%EOF

@@ -1,0 +1,4 @@
+# 升级清单与签名按字节签名：禁止换行符转换，否则签名失效。
+update/** -text
+tests/fixtures/update/** -text
+*.sig -text

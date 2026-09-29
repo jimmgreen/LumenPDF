@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "LumenPDF",
+  "version": "9.9.0",
+  "tag": "v9.9.0",
+  "published": "2026-09-29",
+  "page": "https://github.com/jimmgreen/LumenPDF/releases/tag/v9.9.0",
+  "notes": "测试清单：中文说明\u3002\n- 第二行",
+  "assets": {
+    "setup": {"name": "LumenPDF-9.9.0-setup.exe", "size": 12345, "sha256": "8fb6d5f37e8055ce720bd0b1d56587f88c0071f285966ba17e72b2b12672aa73", "urls": ["https://github.com/jimmgreen/LumenPDF/releases/download/v9.9.0/LumenPDF-9.9.0-setup.exe"]},
+    "portable": {"name": "LumenPDF-9.9.0-portable-x64.zip", "size": 23456, "sha256": "01e782826ae5182220bd6158f883d01ceb1bce659dc020e7c511f802a9aa7737", "urls": ["https://github.com/jimmgreen/LumenPDF/releases/download/v9.9.0/LumenPDF-9.9.0-portable-x64.zip"]}
+  },
+  "mirrors": ["https://gh-proxy.com/", "https://ghfast.top/"]
+}

@@ -1,0 +1,8 @@
+/build/
+/dist/
+.vs/
+*.user
+*.log
+/promo-video/
+__pycache__/
+*.pem

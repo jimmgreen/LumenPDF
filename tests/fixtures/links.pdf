@@ -1,0 +1,79 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Outlines 12 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 6 0 R /Annots [9 0 R 10 0 R 11 0 R] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 8 0 R >>
+endobj
+6 0 obj
+<< /Length 164 >>
+stream
+BT /F1 18 Tf 72 720 Td (Links fixture first line) Tj 0 -30 Td (Second line of selectable text) Tj 0 -30 Td (Go to page three) Tj 0 -30 Td (Visit example site) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 44 >>
+stream
+BT /F1 18 Tf 72 720 Td (Page two body) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 51 >>
+stream
+BT /F1 18 Tf 72 400 Td (Target on page three) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [70 654 260 674] /Border [0 0 0] /Dest [5 0 R /XYZ 0 420 0] >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [70 624 260 644] /Border [0 0 0] /A << /S /URI /URI (https://example.com/lumen) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [300 624 400 644] /Border [0 0 0] /A << /S /URI /URI (file:///C:/Windows/notepad.exe) >> >>
+endobj
+12 0 obj
+<< /Type /Outlines /First 13 0 R /Last 15 0 R /Count 3 >>
+endobj
+13 0 obj
+<< /Title (Chapter 1 Introduction) /Parent 12 0 R /Next 15 0 R /First 14 0 R /Last 14 0 R /Count 1 /Dest [3 0 R /Fit] >>
+endobj
+14 0 obj
+<< /Title (1.1 Details) /Parent 13 0 R /Dest [4 0 R /Fit] >>
+endobj
+15 0 obj
+<< /Title (Chapter 2 Target) /Parent 12 0 R /Prev 13 0 R /Dest [5 0 R /Fit] >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000081 00000 n 
+0000000150 00000 n 
+0000000355 00000 n 
+0000000530 00000 n 
+0000000705 00000 n 
+0000000920 00000 n 
+0000001014 00000 n 
+0000001115 00000 n 
+0000001230 00000 n 
+0000001369 00000 n 
+0000001514 00000 n 
+0000001588 00000 n 
+0000001725 00000 n 
+0000001802 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+1897
+%%EOF

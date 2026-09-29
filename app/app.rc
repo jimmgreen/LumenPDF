@@ -1,0 +1,34 @@
+#pragma code_page(65001)
+#include <windows.h>
+1 ICON "app.ico"
+// 关联 .pdf 后资源管理器中的文档图标（注册表 DefaultIcon 用 ",-3" 引用）。由 scripts/make_file_icon.py 生成。
+3 ICON "pdf_file.ico"
+// 同一图标的原始 ICO 字节：自绘标题栏据此绘制图标（任务栏图标取自上面的 ICON 资源）。
+2 RCDATA "app.ico"
+// 主页品牌标志（256px PNG）。
+3 RCDATA "logo.png"
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,4,0,0
+ PRODUCTVERSION 0,4,0,0
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+BEGIN
+ BLOCK "StringFileInfo"
+ BEGIN
+  BLOCK "080404b0"
+  BEGIN
+   VALUE "CompanyName", "LumenPDF"
+   VALUE "FileDescription", "LumenPDF 轻量 PDF 阅读与整理"
+   VALUE "FileVersion", "0.4.0"
+   VALUE "InternalName", "LumenPDF"
+   VALUE "OriginalFilename", "LumenPDF.exe"
+   VALUE "ProductName", "LumenPDF"
+   VALUE "ProductVersion", "0.4.0"
+  END
+ END
+ BLOCK "VarFileInfo"
+ BEGIN
+  VALUE "Translation", 0x0804, 1200
+ END
+END
+

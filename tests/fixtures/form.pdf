@@ -1,0 +1,120 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /AcroForm 4 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 30 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /Helv 5 0 R >> >> /Annots [10 0 R 11 0 R 12 0 R 13 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R] >>
+endobj
+4 0 obj
+<< /Fields [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 17 0 R 18 0 R 19 0 R 31 0 R] /DA (/Helv 0 Tf 0 g) /DR << /Font << /Helv 5 0 R /ZaDb 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 54 >>
+stream
+BT /Helv 12 Tf 40 780 Td (LumenPDF form fixture) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /ZapfDingbats >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Tx /T (name) /TU (Full name) /Rect [100 700 300 720] /DA (/Helv 12 Tf 0 g) /MaxLen 20 /V () >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Tx /T (notes) /Ff 4096 /Rect [100 600 400 680] /DA (/Helv 10 Tf 0 g) /V () >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Tx /T (account) /Ff 1 /Rect [100 560 300 580] /DA (/Helv 12 Tf 0 g) /V (A-001) >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Btn /T (agree) /Rect [100 520 114 534] /V /Off /AS /Off /AP << /N << /Yes 20 0 R /Off 21 0 R >> >> /MK << /CA (4) >> /DA (/ZaDb 0 Tf 0 g) >>
+endobj
+14 0 obj
+<< /FT /Btn /T (plan) /Ff 49152 /V /Off /Kids [15 0 R 16 0 R] >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /Parent 14 0 R /Rect [100 480 114 494] /AS /Off /AP << /N << /basic 20 0 R /Off 21 0 R >> >> /MK << /CA (l) >> /DA (/ZaDb 0 Tf 0 g) >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /Parent 14 0 R /Rect [160 480 174 494] /AS /Off /AP << /N << /pro 20 0 R /Off 21 0 R >> >> /MK << /CA (l) >> /DA (/ZaDb 0 Tf 0 g) >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Ch /T (city) /Ff 131072 /Opt [(Taipei) (Tokyo) [(sh) (Shanghai)]] /Rect [100 440 250 460] /DA (/Helv 12 Tf 0 g) /V (Taipei) >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Ch /T (color) /Opt [(Red) (Green) (Blue)] /Rect [300 400 400 460] /DA (/Helv 10 Tf 0 g) /V (Green) >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Widget /P 3 0 R /F 4 /FT /Sig /T (signature) /Rect [100 330 300 380] >>
+endobj
+20 0 obj
+<< /Length 31 /BBox [0 0 14 14] /Resources << /Font << /ZaDb 7 0 R >> >> >>
+stream
+BT /ZaDb 12 Tf 2 2 Td (4) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Length 0 /BBox [0 0 14 14] >>
+stream
+
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 32 0 R /Resources << /Font << /Helv 5 0 R >> >> /Annots [31 0 R] >>
+endobj
+31 0 obj
+<< /Type /Annot /Subtype /Widget /P 30 0 R /F 4 /FT /Tx /T (page2) /Rect [100 700 300 720] /DA (/Helv 12 Tf 0 g) /V () >>
+endobj
+32 0 obj
+<< /Length 41 >>
+stream
+BT /Helv 12 Tf 40 780 Td (Page two) Tj ET
+endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000144 00000 n 
+0000000345 00000 n 
+0000000506 00000 n 
+0000000603 00000 n 
+0000000707 00000 n 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000780 00000 n 
+0000000943 00000 n 
+0000001089 00000 n 
+0000001239 00000 n 
+0000001448 00000 n 
+0000001529 00000 n 
+0000001727 00000 n 
+0000001923 00000 n 
+0000002118 00000 n 
+0000002288 00000 n 
+0000002402 00000 n 
+0000002543 00000 n 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000000000 65535 f 
+0000002611 00000 n 
+0000002758 00000 n 
+0000002896 00000 n 
+trailer
+<< /Size 33 /Root 1 0 R >>
+startxref
+2988
+%%EOF
